@@ -8,7 +8,6 @@
 
   <PropertyGroup>
     <!-- NuGet properties -->
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>MacRobert.UriPathBuilder</PackageId>
     <PackageDescription>Create complex Uri paths using fluent syntax</PackageDescription>
     <IncludeSymbols>True</IncludeSymbols>

@@ -7,7 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1A9039D2-156
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MacRobert.UriPathBuilder", "src\UriPathBuilder\MacRobert.UriPathBuilder.csproj", "{AD3E6BAC-4F77-4438-A4A8-4DBDAFE5EB49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.MacRobert.UriPathBuilder", "test\Test.MacRobert.UriPathBuilder\Test.MacRobert.UriPathBuilder.csproj", "{67AB8C65-B1F3-4C46-B8CB-813EBE1745F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.MacRobert.UriPathBuilder", "test\Test.MacRobert.UriPathBuilder\Test.MacRobert.UriPathBuilder.csproj", "{67AB8C65-B1F3-4C46-B8CB-813EBE1745F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05D254A2-45AD-4DCE-BE89-8FFD81C2EB54}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
